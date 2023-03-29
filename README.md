@@ -1,1 +1,1 @@
-### A research report on the efficacy of a price-action trading strategy on Indian equities and futures. This report was submitted for the Low-Prep problem statement provided by QuantInsti in the Inter IIT Tech Meet 11.0 (2023)
+#### A research report on the efficacy of a price-action trading strategy on Indian equities and futures. This report was submitted for the Low-Prep problem statement provided by QuantInsti in the Inter IIT Tech Meet 11.0 (2023)
